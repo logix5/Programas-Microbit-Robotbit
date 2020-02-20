@@ -1,2 +1,2 @@
 # Programas Microbit+Robotbit
- Programas de microbit y la shiel robot bit
+ Programas de microbit y la shield robot bit
